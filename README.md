@@ -13,6 +13,7 @@
 
 ### Jwt
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/, "jwt")
+* [JWT & Spring Security](https://brunch.co.kr/@springboot/491, "spring-jwt")
 
 ## Markdown
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601, "markdown")
