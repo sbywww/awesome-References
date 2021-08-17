@@ -15,6 +15,11 @@
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 
+## OS
+
+### Linux
+* [리눅스 그룹 생성/삭제/확인/추가 - groupadd](https://webdir.tistory.com/134)
+
 ## Markdown
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
