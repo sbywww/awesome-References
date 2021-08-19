@@ -26,9 +26,9 @@
 * [redis](https://redis.io/)
 * [redisgate(Redis Introduction)](http://redisgate.kr/redis/introduction/redis_intro.php)
 
-### VCS(Version Control System)
+## VCS(Version Control System)
 
-## Git
+### Git
 * [Git 명령어](https://blog.outsider.ne.kr/572)
 * [gitignore 생성](https://www.toptal.com/developers/gitignore)
 
@@ -38,7 +38,8 @@
 ## 벤치마킹
 * [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 
-
 ## Markdown
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
+## Tools
+* [JSON Validator](https://jsonlint.com/)
