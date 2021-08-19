@@ -41,5 +41,8 @@
 ## Markdown
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
+## IDE or Editor
+* [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
+
 ## Tools
 * [JSON Validator](https://jsonlint.com/)
