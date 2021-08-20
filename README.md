@@ -49,4 +49,5 @@
 
 ## Tools
 * [JSCompress](https://jscompress.com/)
+* [ES6Console](https://es6console.com/)
 * [JSON Validator](https://jsonlint.com/)
