@@ -48,4 +48,5 @@
 * [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
 
 ## Tools
+* [JSCompress](https://jscompress.com/)
 * [JSON Validator](https://jsonlint.com/)
