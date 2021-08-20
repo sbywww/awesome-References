@@ -54,3 +54,6 @@
 
 ## 개발환경
 * [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
+
+## 한 번 읽어보면 좋은 내용
+* [초기 스타트업을 위한 서버선택 가이드](https://blog.dochis.net/2020/08/19/Server-Architecture-for-Startups.html)
