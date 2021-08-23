@@ -31,6 +31,9 @@
 
 ## AWS
 
+### EC2
+* [SSH 간편하게 접속하기](https://jupiny.com/2016/10/31/ssh-login-simply/)
+
 ### RDS
 * [AWS RDS MariaDB 한글 깨짐 현상 해결방법](https://twofootdog.tistory.com/62)
 
