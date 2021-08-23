@@ -22,6 +22,9 @@
 
 ## Database
 
+### MySQL
+* [macOS MySQL 설치 및 설정 사용법](https://whitepaek.tistory.com/16)
+
 ### Redis
 * [redis](https://redis.io/)
 * [redisgate(Redis Introduction)](http://redisgate.kr/redis/introduction/redis_intro.php)
