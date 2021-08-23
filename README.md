@@ -29,6 +29,11 @@
 * [redis](https://redis.io/)
 * [redisgate(Redis Introduction)](http://redisgate.kr/redis/introduction/redis_intro.php)
 
+## AWS
+
+### RDS
+* [AWS RDS MariaDB 한글 깨짐 현상 해결방법](https://twofootdog.tistory.com/62)
+
 ## VCS(Version Control System)
 
 ### Git
