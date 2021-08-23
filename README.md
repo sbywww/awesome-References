@@ -49,6 +49,10 @@
 ## Java
 * [codechacha(java)](https://codechacha.com/ko/category/java/)
 
+## GitHub
+
+* [Spring Boot Starter-kit](https://github.com/khandelwal-arpit/springboot-starterkit)
+
 ## 벤치마킹
 * [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 
