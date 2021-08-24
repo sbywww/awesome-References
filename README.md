@@ -75,6 +75,7 @@
 * [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
 * [Homebrew 설치 및 사용법](https://whitepaek.tistory.com/3)
 * [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB%84%90%EC%9D%84-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-a105f2c01bec)
+* [Eclipse 성능개선 최적화](https://www.slipp.net/wiki/pages/viewpage.action?pageId=5177633)
 
 ## 한 번 읽어보면 좋은 내용
 * [개발자 로드맵](https://roadmap.sh/)
