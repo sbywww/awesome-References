@@ -15,6 +15,9 @@
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 
+### Nginx
+* [nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
+
 ## OS
 
 ### Linux
