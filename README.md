@@ -18,7 +18,8 @@
 ## 웹 서버
 
 ### Nginx
-* [nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
+* [Nginx vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
+* [Nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 
 ## OS
 
