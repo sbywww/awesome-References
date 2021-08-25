@@ -7,9 +7,8 @@
 * [인터넷이 동작하는 방식(How does the internet work)](https://developer.mozilla.org/ko/docs/Learn/Common_questions/How_does_the_Internet_work)
 ### Http
 * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
-
 ### DNS
-*[what-is-dns](https://aws.amazon.com/ko/route53/what-is-dns/)
+* [what-is-dns](https://aws.amazon.com/ko/route53/what-is-dns/)
 
 ## 웹
 
