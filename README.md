@@ -13,6 +13,10 @@
 
 ## 웹
 * [Web이란?](https://conol.tistory.com/9)
+
+### Cookie, Session
+* [쿠키(Cookie), 세션(Session) 특징 및 차이](https://hahahoho5915.tistory.com/32)
+
 ### Jwt
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
