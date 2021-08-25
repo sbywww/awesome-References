@@ -12,7 +12,7 @@
 * [what-is-a-domain-name](https://developer.mozilla.org/ko/docs/Learn/Common_questions/What_is_a_domain_name)
 
 ## 웹
-
+* [Web이란?](https://conol.tistory.com/9)
 ### Jwt
 * [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
