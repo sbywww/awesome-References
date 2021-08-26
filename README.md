@@ -90,6 +90,7 @@
 * [초기 스타트업을 위한 서버선택 가이드](https://blog.dochis.net/2020/08/19/Server-Architecture-for-Startups.html)
 * [결제 시스템 성능, 부하, 스트레스 테스트](https://techblog.woowahan.com/2572/)
 * [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
+* [실전 Web Application 부하 테스트](https://blog.imqa.io/loadtesting2/)
 
 
 
