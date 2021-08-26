@@ -66,15 +66,6 @@
 
 * [Spring Boot Starter-kit](https://github.com/khandelwal-arpit/springboot-starterkit)
 
-## 벤치마킹
-* [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
-
-## Markdown
-* [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
-
-## IDE or Editor
-* [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
-
 ## Test
 
 ## Tools
@@ -98,3 +89,12 @@
 * [개발자 로드맵](https://roadmap.sh/)
 * [초기 스타트업을 위한 서버선택 가이드](https://blog.dochis.net/2020/08/19/Server-Architecture-for-Startups.html)
 * [결제 시스템 성능, 부하, 스트레스 테스트](https://techblog.woowahan.com/2572/)
+* [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
+
+
+
+## Markdown
+* [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+## IDE or Editor
+* [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
