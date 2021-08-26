@@ -76,7 +76,6 @@
 * [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
 
 ## Test
- * [2021 년 최고의 성능 테스트 도구](https://ko.myservername.com/15-best-performance-testing-tools-2021)
 
 ## Tools
 * [JSCompress](https://jscompress.com/)
@@ -98,3 +97,4 @@
 ## 한 번 읽어보면 좋은 내용
 * [개발자 로드맵](https://roadmap.sh/)
 * [초기 스타트업을 위한 서버선택 가이드](https://blog.dochis.net/2020/08/19/Server-Architecture-for-Startups.html)
+* [결제 시스템 성능, 부하, 스트레스 테스트](https://techblog.woowahan.com/2572/)
