@@ -91,13 +91,15 @@
 * [Eclipse 성능개선 최적화](https://www.slipp.net/wiki/pages/viewpage.action?pageId=5177633)
 * [IntelliJ 설정 최적화](https://goddaehee.tistory.com/197)
 
+## 코드 컨벤션
+* [JAVA 코드 컨벤션](https://velog.io/@kwj1270/JAVA-%EC%BD%94%EB%93%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+
 ## 한 번 읽어보면 좋은 내용
 * [개발자 로드맵](https://roadmap.sh/)
 * [초기 스타트업을 위한 서버선택 가이드](https://blog.dochis.net/2020/08/19/Server-Architecture-for-Startups.html)
 * [결제 시스템 성능, 부하, 스트레스 테스트](https://techblog.woowahan.com/2572/)
 * [타다 시스템 아키텍처](https://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [실전 Web Application 부하 테스트](https://blog.imqa.io/loadtesting2/)
-
 
 
 ## Markdown
