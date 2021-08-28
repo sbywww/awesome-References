@@ -70,6 +70,7 @@
 
 ## GitHub
 * [Spring Boot Starter-kit](https://github.com/khandelwal-arpit/springboot-starterkit)
+* [TypeScript Node Starter](https://github.com/Microsoft/TypeScript-Node-Starter#typescript-node-starter)
 
 ## Test
 
