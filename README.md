@@ -33,6 +33,9 @@
 * [리눅스 그룹 생성/삭제/확인/추가 - groupadd](https://webdir.tistory.com/134)
 * [리눅스 단축키 및 명령어](https://4475.tistory.com/489)
 
+### Window
+* [CMD 명령어 모음](https://library1008.tistory.com/42)
+
 ## Database
 
 ### MySQL
