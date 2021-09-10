@@ -64,6 +64,7 @@
 * [gitignore 생성](https://www.toptal.com/developers/gitignore)
 * [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 * [Git pull/push 시 Password 물어보지 않도록 설정하기(credential.helper)](https://www.hahwul.com/2018/08/22/git-credential-helper/)
+* [Git Remote로 잘못 push 된 디렉토리 삭제하기](https://mobicon.tistory.com/266)
 
 ### SVN
 * [Subversion(SVN) 개념 및 명령어 정리](https://hellowoori.tistory.com/57)
