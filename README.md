@@ -60,6 +60,7 @@
 ## VCS(Version Control System)
 
 ### Git
+* [Git 사용자 설명서](https://namhyung.github.io/git-user-manual-ko/)
 * [Git 명령어](https://blog.outsider.ne.kr/572)
 * [gitignore 생성](https://www.toptal.com/developers/gitignore)
 * [Git Flow](https://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
