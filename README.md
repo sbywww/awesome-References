@@ -105,6 +105,7 @@
 * [NHN 코딩 컨벤션 - 네이버](https://nuli.navercorp.com/data/convention/NHN_Coding_Conventions_for_Markup_Languages.pdf)
 * [Kotlin 코딩 컨벤션 정리](https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce)
 * [html/css 코드 컨벤션](https://github.com/choegyumin/markup-coding-conventions)
+* [Intellij에 Google Style 적용](https://jiyeonseo.github.io/2016/11/15/setting-java-google-style-to-intellij/)
 
 ## 한 번 읽어보면 좋은 내용
 * [개발자 로드맵](https://roadmap.sh/)
