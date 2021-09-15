@@ -45,6 +45,7 @@
 ### Redis
 * [redis](https://redis.io/)
 * [redisgate(Redis Introduction)](http://redisgate.kr/redis/introduction/redis_intro.php)
+* [Redis 설치 - Mac OS](https://rayner.tistory.com/5)
 * [AWS EC2에 Redis 설치](https://velog.io/@ssoop/AWS-EC2%EC%97%90-Redis-%EC%84%A4%EC%B9%98)
 
 ### MongoDB
