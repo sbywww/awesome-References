@@ -128,3 +128,4 @@
 
 ## IDE or Editor
 * [vi / vim 명령어 단축키 모음](https://freelogging.tistory.com/2)
+* [가장 많이 사용되는 IntelliJ IDEA 단축키 15개](https://blog.jetbrains.com/ko/2020/03/11/top-15-intellij-idea-shortcuts_ko/)
