@@ -41,6 +41,7 @@
 ### MySQL
 * [macOS MySQL 설치 및 설정 사용법](https://whitepaek.tistory.com/16)
 * [AWS 에 데이터베이스 서버 셋팅하는 방법(MySQL 5.7)](https://velog.io/@sechawang/AWS-%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%84%9C%EB%B2%84-%EC%85%8B%ED%8C%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95MySQL-5.7)
+* [MySQL 성능 죽이는 잘못된 쿼리 습관](https://gywn.net/2012/05/mysql-bad-sql-type/)
 
 ### Redis
 * [redis](https://redis.io/)
