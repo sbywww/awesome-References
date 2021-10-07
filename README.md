@@ -80,6 +80,7 @@
 ## Spring
 * [SpringBoot의 깨알같은 팁](https://jojoldu.tistory.com/43?category=635883)
 * [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
+* [멀티모듈 설계 이야기 with Spring, Gradle](https://woowabros.github.io/study/2019/07/01/multi-module.html)
 
 ## Java
 * [codechacha(java)](https://codechacha.com/ko/category/java/)
