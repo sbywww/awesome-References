@@ -64,8 +64,7 @@
 
 ### Java
 * [codechacha(java)](https://codechacha.com/ko/category/java/)
-
-
+* [[Java Exception] 자바 에러 목록 및 ERROR 처리](https://mystarlight.tistory.com/22)
 
 
 ## OS
