@@ -62,6 +62,7 @@
 * [1. Jenkins로 Beanstalk + Multi Module 배포하기 - Jenkins 설치](https://jojoldu.tistory.com/290?category=777282)
 * [AWS EC2 JENKINS 스프링부트 자동배포](https://blog.nachal.com/1633)
 * [jenkins - 배포 자동화 하기](https://nerd-mix.tistory.com/29?category=824214)
+* [[AWS] Spring Boot, Jenkins, CodeDeploy로 CI/CD 하기](https://devlog-wjdrbs96.tistory.com/295)
 
 
 ### SVN
