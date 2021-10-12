@@ -60,6 +60,8 @@
 
 ### Jenkins
 * [1. Jenkins로 Beanstalk + Multi Module 배포하기 - Jenkins 설치](https://jojoldu.tistory.com/290?category=777282)
+* [AWS EC2 JENKINS 스프링부트 자동배포](https://blog.nachal.com/1633)
+
 
 ### SVN
 * [Subversion(SVN) 개념 및 명령어 정리](https://hellowoori.tistory.com/57)
