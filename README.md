@@ -75,6 +75,7 @@
 ### Java
 * [codechacha(java)](https://codechacha.com/ko/category/java/)
 * [[Java Exception] 자바 에러 목록 및 ERROR 처리](https://mystarlight.tistory.com/22)
+* [[Java] 경위도 좌표 거리계산 (두 지점간의 거리)](https://fruitdev.tistory.com/189)
 
 
 ## OS
