@@ -9,6 +9,7 @@
 * [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 * [멀티모듈 설계 이야기 with Spring, Gradle](https://woowabros.github.io/study/2019/07/01/multi-module.html)
+* [Gradle 멀티 프로젝트 관리](https://jojoldu.tistory.com/123)
 * [How Fast is Spring?](https://spring.io/blog/2018/12/12/how-fast-is-spring)
 
 ### Node.JS
