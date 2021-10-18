@@ -14,6 +14,7 @@
 * [Running Java application as Linux service with systemd](https://medium.com/@ameyadhamnaskar/running-java-application-as-a-service-on-centos-599609d0c641)
 * [인텔리제이에서 스프링부트 Devtools가 실행되지 않을 때](https://imspear.tistory.com/m/138?category=861182)
 * [redis로 caching해서 dbms의 부하 줄이기](https://anomie7.tistory.com/42?category=728776)
+* [JSP 제약사항](https://hye0-log.tistory.com/28)
 
 ### Node.JS
 * [Express](https://expressjs.com/ko/)
