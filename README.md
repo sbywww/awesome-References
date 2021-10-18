@@ -12,6 +12,7 @@
 * [Gradle 멀티 프로젝트 관리](https://jojoldu.tistory.com/123)
 * [How Fast is Spring?](https://spring.io/blog/2018/12/12/how-fast-is-spring)
 * [Running Java application as Linux service with systemd](https://medium.com/@ameyadhamnaskar/running-java-application-as-a-service-on-centos-599609d0c641)
+* [인텔리제이에서 스프링부트 Devtools가 실행되지 않을 때](https://imspear.tistory.com/m/138?category=861182)
 
 ### Node.JS
 * [Express](https://expressjs.com/ko/)
