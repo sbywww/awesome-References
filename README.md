@@ -15,6 +15,7 @@
 * [인텔리제이에서 스프링부트 Devtools가 실행되지 않을 때](https://imspear.tistory.com/m/138?category=861182)
 * [redis로 caching해서 dbms의 부하 줄이기](https://anomie7.tistory.com/42?category=728776)
 * [JSP 제약사항](https://hye0-log.tistory.com/28)
+* [Spring Boot - jar 실행](https://m.blog.naver.com/moonv11/221429285547)
 
 ### Node.JS
 * [Express](https://expressjs.com/ko/)
