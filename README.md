@@ -16,6 +16,7 @@
 * [redis로 caching해서 dbms의 부하 줄이기](https://anomie7.tistory.com/42?category=728776)
 * [JSP 제약사항](https://hye0-log.tistory.com/28)
 * [Spring Boot - jar 실행](https://m.blog.naver.com/moonv11/221429285547)
+* [Java의 날짜와 시간 API](https://d2.naver.com/helloworld/645609)
 * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
 * [(Jackson) LocalDate, LocalTime, LocalDateTime 뽀개기](https://perfectacle.github.io/2018/01/15/jackson-local-date-time-deserialize/)
 
