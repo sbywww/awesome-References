@@ -19,6 +19,7 @@
 * [Java의 날짜와 시간 API](https://d2.naver.com/helloworld/645609)
 * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
 * [(Jackson) LocalDate, LocalTime, LocalDateTime 뽀개기](https://perfectacle.github.io/2018/01/15/jackson-local-date-time-deserialize/)
+* [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
 
 ### Node.JS
 * [Express](https://expressjs.com/ko/)
