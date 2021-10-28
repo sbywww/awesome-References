@@ -165,6 +165,7 @@
 
 ## Markdown
 * [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+* [거, 리드미(README) 좀 쉽게 쓰는 방법 없소?](https://velog.io/@onea/%EA%B1%B0-%EB%A6%AC%EB%93%9C%EB%AF%B8README-%EC%A2%80-%EC%89%BD%EA%B2%8C-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95-%EC%97%86%EC%86%8C)
 
 
 
