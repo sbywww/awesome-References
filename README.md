@@ -21,6 +21,9 @@
 * [(Jackson) LocalDate, LocalTime, LocalDateTime 뽀개기](https://perfectacle.github.io/2018/01/15/jackson-local-date-time-deserialize/)
 * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
 
+### Spring Batch
+* [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
+
 ### Node.JS
 * [Express](https://expressjs.com/ko/)
 * [NestJS](https://nestjs.com/)
