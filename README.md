@@ -34,6 +34,7 @@
 ### Nginx
 * [Nginx vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
 * [Nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
+* [Nginx 413 Request Entity Too Large 에러 해결하기, 파일 업로드 사이즈](https://webisfree.com/2018-03-29/nginx-413-request-entity-too-large-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9D%B4%EC%A6%88)
 
 ## Database
 
