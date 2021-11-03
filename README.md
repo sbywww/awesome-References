@@ -20,6 +20,7 @@
 * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
 * [(Jackson) LocalDate, LocalTime, LocalDateTime 뽀개기](https://perfectacle.github.io/2018/01/15/jackson-local-date-time-deserialize/)
 * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
+* [IE 7,8에서 모던하게 개발하기 #6 - 배포환경 구축/js최적화](https://jojoldu.tistory.com/54)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
