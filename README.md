@@ -62,6 +62,7 @@
 * [맥(Mac)에서 몽고디비(MongoDB) 설치과정](https://velog.io/@rohkorea86/MongoDB%EC%84%A4%EC%B9%98-%EB%A7%A5MAC%EC%97%90%EC%84%9C-%EB%AA%BD%EA%B3%A0%EB%94%94%EB%B9%84-%EC%84%A4%EC%B9%98)
 
 ## Frontend
+* [Select2](https://select2.org/dropdown)
 * [드래그 및 마우스 우클릭 방지 막기 소스/스크립트](https://kkyo.tistory.com/36)
 
 ## DevOps
