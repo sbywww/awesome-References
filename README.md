@@ -22,6 +22,7 @@
 * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
 * [IE 7,8에서 모던하게 개발하기 #6 - 배포환경 구축/js최적화](https://jojoldu.tistory.com/54)
 * [[SpringBoot] Validation 간단 정리 - 1 (BindingResult, Validator)](https://jaimemin.tistory.com/1874)
+* [싱글턴 패턴(Singleton Pattern)](https://webdevtechblog.com/%EC%8B%B1%EA%B8%80%ED%84%B4-%ED%8C%A8%ED%84%B4-singleton-pattern-db75ed29c36)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
