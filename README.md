@@ -69,6 +69,7 @@
 * [flatpickr](https://flatpickr.js.org/)
 * [realgrid](https://realgrid.com/)
 * [Pure.css](https://purecss.io/)
+* [skeleton](http://getskeleton.com/)
 * [[JS] 스크롤 내릴 때 효과 나타내기_(1)참고할 사이트 모음](https://dkanxmstmdgml.tistory.com/111)
 * [드래그 및 마우스 우클릭 방지 막기 소스/스크립트](https://kkyo.tistory.com/36)
 * [자바스크립트로 카카오톡, 페이스북, 트위터 공유하기 만들기](https://blog.acronym.co.kr/583)
