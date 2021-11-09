@@ -26,6 +26,7 @@
 * [동영상에서 썸네일 이미지 추출하기 (Extract image from a video using java)](http://andang72.blogspot.com/2019/12/extract-image-from-video.html)
 * [(Spring Boot)오류 처리에 대해](https://supawer0728.github.io/2019/04/04/spring-error-handling/)
 * [AccessDeniedHandler 구현클래스로 인증&인가 Exception 핸들링](https://blog.jiniworld.me/53)
+* [Spring Boot 환경에서 webpack dev server 사용하기](https://haviyj.tistory.com/25)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
