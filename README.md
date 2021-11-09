@@ -27,6 +27,7 @@
 * [(Spring Boot)오류 처리에 대해](https://supawer0728.github.io/2019/04/04/spring-error-handling/)
 * [AccessDeniedHandler 구현클래스로 인증&인가 Exception 핸들링](https://blog.jiniworld.me/53)
 * [Spring Boot 환경에서 webpack dev server 사용하기](https://haviyj.tistory.com/25)
+* [Webpack+SpringBoot 기반의 프론트엔드 개발환경 구축하기](https://medium.com/@alvin.h/%EC%9B%B9%ED%8C%A9-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%EA%B8%B0%EB%B0%98%EC%9D%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-87cd758e1eae)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
