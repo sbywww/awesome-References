@@ -34,6 +34,7 @@
 * [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 * [왜 비즈니스 로직은 Model(Domain)에 가까울수록 좋은가?](https://nesoy.github.io/articles/2018-04/why-close-to-domain)
 * [IntelliJ Thymeleaf Cannot resolve variables 오류 해결](https://yoons2owo.tistory.com/15)
+* [Rest API 만들기(4) 예외 처리](https://leeys.tistory.com/30)
 * [Best Practice For Rest API Error Handling](https://pjh3749.tistory.com/273)
 
 ### Spring Batch
