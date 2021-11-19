@@ -7,6 +7,7 @@
 ### Spring
 * [SpringBoot의 깨알같은 팁](https://jojoldu.tistory.com/43?category=635883)
 * [Entity, DTO, VO 바로 알기](https://velog.io/@gillog/Entity-DTO-VO-%EB%B0%94%EB%A1%9C-%EC%95%8C%EA%B8%B0)
+* [Spring Interceptor / 권한 확인 어노테이션](https://ecsimsw.tistory.com/entry/Spring-Interceptor-%EA%B6%8C%ED%95%9C-%ED%99%95%EC%9D%B8-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98)
 * [JWT & Spring Security](https://brunch.co.kr/@springboot/491)
 * [멀티모듈 설계 이야기 with Spring, Gradle](https://woowabros.github.io/study/2019/07/01/multi-module.html)
 * [Gradle 멀티 프로젝트 관리](https://jojoldu.tistory.com/123)
