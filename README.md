@@ -94,6 +94,7 @@
 * [드래그 및 마우스 우클릭 방지 막기 소스/스크립트](https://kkyo.tistory.com/36)
 * [자바스크립트로 카카오톡, 페이스북, 트위터 공유하기 만들기](https://blog.acronym.co.kr/583)
 * [jQuery - ajax xhr을 활용한 파일 업로드 진행 상태 확인하기](https://myhappyman.tistory.com/178)
+* [jQuery 회원가입 정규식표현 유효성 검사](https://ming9mon.tistory.com/81)
 
 ## DevOps
 
