@@ -98,6 +98,7 @@
 * [jQuery - ajax xhr을 활용한 파일 업로드 진행 상태 확인하기](https://myhappyman.tistory.com/178)
 * [jQuery 회원가입 정규식표현 유효성 검사](https://ming9mon.tistory.com/81)
 * [[jQuery]제이쿼리 숫자(천단위)콤마 찍기 및 제거](https://lnsideout.tistory.com/entry/jQuery%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC-%EC%88%AB%EC%9E%90%EC%B2%9C%EB%8B%A8%EC%9C%84%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0-%EB%B0%8F-%EC%A0%9C%EA%B1%B0)
+* [jQuery 입문](http://www.devkuma.com/books/3)
 
 ## DevOps
 
