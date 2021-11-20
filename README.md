@@ -38,6 +38,7 @@
 * [Rest API 만들기(4) 예외 처리](https://leeys.tistory.com/30)
 * [Best Practice For Rest API Error Handling](https://pjh3749.tistory.com/273)
 * [Thymeleaf 기본기능 사용법](https://velog.io/@haerong22/Thymeleaf-%EC%A0%95%EB%A6%AC)
+* [Spring session을 Redis에 저장했을 때 어떻게 저장될까?](https://deveric.tistory.com/76)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
