@@ -236,6 +236,7 @@
 
 ### 웹
 * [Web이란?](https://conol.tistory.com/9)
+* [SPA 그리고 SSR과 CSR](https://velog.io/@ru_bryunak/SPA-%EC%82%AC%EC%9A%A9%EC%97%90%EC%84%9C%EC%9D%98-SSR%EA%B3%BC-CSR)
 
 ### Cookie, Session
 * [쿠키(Cookie), 세션(Session) 특징 및 차이](https://hahahoho5915.tistory.com/32)
