@@ -236,6 +236,7 @@
 
 ### 웹
 * [Web이란?](https://conol.tistory.com/9)
+* [브라우저는 어떻게 동작하는가?](https://d2.naver.com/helloworld/59361)
 * [SPA 그리고 SSR과 CSR](https://velog.io/@ru_bryunak/SPA-%EC%82%AC%EC%9A%A9%EC%97%90%EC%84%9C%EC%9D%98-SSR%EA%B3%BC-CSR)
 
 ### Cookie, Session
