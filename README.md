@@ -196,7 +196,8 @@
 * [기업기술스택과 기술동향](https://www.codenary.co.kr/)
 * [신규 포인트 시스템 전환기 #1 – 개발 단계](https://techblog.woowahan.com/2587/)
 
-
+## 기업별 블로그 모음
+* [화해](http://blog.hwahae.co.kr/)
 
 
 ## GitHub
