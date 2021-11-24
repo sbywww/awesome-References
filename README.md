@@ -101,6 +101,7 @@
 * [jQuery 회원가입 정규식표현 유효성 검사](https://ming9mon.tistory.com/81)
 * [[jQuery]제이쿼리 숫자(천단위)콤마 찍기 및 제거](https://lnsideout.tistory.com/entry/jQuery%EC%A0%9C%EC%9D%B4%EC%BF%BC%EB%A6%AC-%EC%88%AB%EC%9E%90%EC%B2%9C%EB%8B%A8%EC%9C%84%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0-%EB%B0%8F-%EC%A0%9C%EA%B1%B0)
 * [jQuery 입문](http://www.devkuma.com/books/3)
+* [디자인 패턴(추상 팩토리, abstract factory)](https://www.zerocho.com/category/JavaScript/post/57b9692ae492d01700b0b75a)
 * [Next.js 제대로 알고 쓰자](https://medium.com/@msj9121/next-js-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90-8727f76614c9)
 
 ## DevOps
