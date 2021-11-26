@@ -209,6 +209,7 @@
 * [spring-boot-maven-multi-module](https://github.com/taetaetae/spring-boot-maven-multi-module)
 * [spring-boot-with-webpack-starter](https://github.com/unchai/spring-boot-with-webpack-starter)
 * [webpack-springboot-starter](https://github.com/seogi1004/webpack-springboot-starter/blob/master/webpack.config.js)
+* [jcodec](https://github.com/jcodec/jcodec)
 
 
 
