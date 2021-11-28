@@ -41,6 +41,7 @@
 * [Spring session을 Redis에 저장했을 때 어떻게 저장될까?](https://deveric.tistory.com/76)
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 * [외부 인프라스트럭처 테스트](https://cheese10yun.github.io/spring-mock-test/)
+* [타임리프 - 기본 기능](https://catsbi.oopy.io/32a9458e-f452-4733-b87c-caba75f98e2d)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
