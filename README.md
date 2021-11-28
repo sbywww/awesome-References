@@ -106,6 +106,7 @@
 * [디자인 패턴(추상 팩토리, abstract factory)](https://www.zerocho.com/category/JavaScript/post/57b9692ae492d01700b0b75a)
 * [자바스크립트 클로저(Closure)](https://yuddomack.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%81%B4%EB%A1%9C%EC%A0%80Closure)
 * [Next.js 제대로 알고 쓰자](https://medium.com/@msj9121/next-js-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%93%B0%EC%9E%90-8727f76614c9)
+* [Normalize CSS or CSS Reset?!](https://elad.medium.com/normalize-css-or-css-reset-9d75175c5d1e)
 
 ## DevOps
 
