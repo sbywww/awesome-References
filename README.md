@@ -40,6 +40,7 @@
 * [Thymeleaf 기본기능 사용법](https://velog.io/@haerong22/Thymeleaf-%EC%A0%95%EB%A6%AC)
 * [Spring session을 Redis에 저장했을 때 어떻게 저장될까?](https://deveric.tistory.com/76)
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
+* [Spring boot에 lucy-xss-servlet-filter 적용하기](https://dev-yujji.tistory.com/m/56?category=823344)
 * [외부 인프라스트럭처 테스트](https://cheese10yun.github.io/spring-mock-test/)
 * [타임리프 - 기본 기능](https://catsbi.oopy.io/32a9458e-f452-4733-b87c-caba75f98e2d)
 * [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#appendix-b-expression-utility-objects)
