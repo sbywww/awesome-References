@@ -45,6 +45,7 @@
 * [타임리프 - 기본 기능](https://catsbi.oopy.io/32a9458e-f452-4733-b87c-caba75f98e2d)
 * [Tutorial: Using Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#appendix-b-expression-utility-objects)
 * [RDS character set 관련 에러](https://github.com/jojoldu/freelec-springboot2-webservice/issues/58)
+* [SpringBoot 이메일 전송](https://victorydntmd.tistory.com/342)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
