@@ -47,6 +47,7 @@
 * [RDS character set 관련 에러](https://github.com/jojoldu/freelec-springboot2-webservice/issues/58)
 * [[Spring] PDF을 이미지 파일로 변환하기](https://peterica.tistory.com/56?category=960967)
 * [SpringBoot 이메일 전송](https://victorydntmd.tistory.com/342)
+* [SpringBoot html 템플릿 메일 보내기 - Thymeleaf](https://blog.huiya.me/14?category=753937)
 * [springboot 비동기 서비스 만들기(Async)](https://www.hanumoka.net/2020/07/02/springBoot-20200702-sringboot-async-service/)
 
 ### Spring Batch
