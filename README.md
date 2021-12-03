@@ -24,6 +24,7 @@
 * [IE 7,8에서 모던하게 개발하기 #6 - 배포환경 구축/js최적화](https://jojoldu.tistory.com/54)
 * [[SpringBoot] Validation 간단 정리 - 1 (BindingResult, Validator)](https://jaimemin.tistory.com/1874)
 * [싱글턴 패턴(Singleton Pattern)](https://webdevtechblog.com/%EC%8B%B1%EA%B8%80%ED%84%B4-%ED%8C%A8%ED%84%B4-singleton-pattern-db75ed29c36)
+* [[Spring Boot] File Upload (스프링 다중 파일 업로드)](https://data-make.tistory.com/669)
 * [동영상에서 썸네일 이미지 추출하기 (Extract image from a video using java)](http://andang72.blogspot.com/2019/12/extract-image-from-video.html)
 * [(Spring Boot)오류 처리에 대해](https://supawer0728.github.io/2019/04/04/spring-error-handling/)
 * [AccessDeniedHandler 구현클래스로 인증&인가 Exception 핸들링](https://blog.jiniworld.me/53)
