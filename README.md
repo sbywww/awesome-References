@@ -210,6 +210,7 @@
 * [기업기술스택과 기술동향](https://www.codenary.co.kr/)
 * [신규 포인트 시스템 전환기 #1 – 개발 단계](https://techblog.woowahan.com/2587/)
 * [뱅크샐러드의 특별한 스펙, '테크 스펙'](https://blog.banksalad.com/tech/we-work-by-tech-spec/)
+* [사이드 프로젝트 인프라 구조](https://www.notion.so/42a5539ef49648e294deedb733150a5d)
 
 ## 기업별 블로그 모음
 * [화해](http://blog.hwahae.co.kr/)
