@@ -51,6 +51,7 @@
 * [SpringBoot 이메일 전송](https://victorydntmd.tistory.com/342)
 * [SpringBoot html 템플릿 메일 보내기 - Thymeleaf](https://blog.huiya.me/14?category=753937)
 * [springboot 비동기 서비스 만들기(Async)](https://www.hanumoka.net/2020/07/02/springBoot-20200702-sringboot-async-service/)
+* [실무에서 Lombok 사용법](https://cheese10yun.github.io/lombok/)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
