@@ -63,6 +63,7 @@
 * [PM2 - Node.js 서버를 더 쉽게 관리하기](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-1-12d30b0fedbe)
 * [Node.js 프로덕션 환경을 위한 Best Practice 모음](https://blog.ull.im/engineering/2019/03/31/node-js-production-best-practices.html)
 * [[TypeScript] Advanced Types(고급 타입)](https://velog.io/@zeros0623/TypeScript-%EA%B3%A0%EA%B8%89-%ED%83%80%EC%9E%85)
+* [node.js 서비스 로그 관리 : pm2 log management](https://darrengwon.tistory.com/m/1120?category=858366)
 
 ### Linux
 * [[Shell Script] 간단한 쉘 스크립트 문법 정리와 예제](https://twpower.github.io/131-simple-shell-script-syntax)
