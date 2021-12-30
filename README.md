@@ -155,6 +155,7 @@
 * [[Java] 경위도 좌표 거리계산 (두 지점간의 거리)](https://fruitdev.tistory.com/189)
 * [int형 숫자의 자릿수 구하기](https://jess2.tistory.com/103)
 * [List 생성방식과 주의점](https://jistol.github.io/java/2017/07/21/caution-make-list/)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [[코딩규칙] 자바 코딩 규칙(Java Code Conventions)](https://myeonguni.tistory.com/1596)
 
 ## OS
