@@ -53,6 +53,7 @@
 * [springboot 비동기 서비스 만들기(Async)](https://www.hanumoka.net/2020/07/02/springBoot-20200702-sringboot-async-service/)
 * [실무에서 Lombok 사용법](https://cheese10yun.github.io/lombok/)
 * [Spring Guide - Exception 전략](https://cheese10yun.github.io/spring-guide-exception/#null)
+* [@Value를 사용하여 Spring Boot 2.0에서 buildInfo에 액세스](https://stackoverflow.com/questions/49748780/access-buildinfo-in-spring-boot-2-0-with-value)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
@@ -73,6 +74,7 @@
 * [Nginx vs Apache](https://kinsta.com/blog/nginx-vs-apache/)
 * [Nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 * [Nginx 413 Request Entity Too Large 에러 해결하기, 파일 업로드 사이즈](https://webisfree.com/2018-03-29/nginx-413-request-entity-too-large-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9D%B4%EC%A6%88)
+* [Java, max user processes, open files](https://techblog.woowahan.com/2569/)
 
 ## Database
 
@@ -92,6 +94,7 @@
 * [AWS EC2에 Redis 설치](https://velog.io/@ssoop/AWS-EC2%EC%97%90-Redis-%EC%84%A4%EC%B9%98)
 * [(Troubleshooting) 레디스 사망일기](https://perfectacle.github.io/2019/05/29/redis-monitoring/)
 * [우아한 Redis 세미나 후기](https://ict-nroo.tistory.com/133)
+* [Redis Cluster 구축 및 성능 튜닝](https://backtony.github.io/redis/2021-09-03-redis-3/#1-redis-cluster-%EA%B5%AC%EC%B6%95-%EB%B0%8F-%EC%9A%B4%EC%98%81)
 
 ### MongoDB
 * [맥(Mac)에서 몽고디비(MongoDB) 설치과정](https://velog.io/@rohkorea86/MongoDB%EC%84%A4%EC%B9%98-%EB%A7%A5MAC%EC%97%90%EC%84%9C-%EB%AA%BD%EA%B3%A0%EB%94%94%EB%B9%84-%EC%84%A4%EC%B9%98)
@@ -126,6 +129,11 @@
 * [AWS RDS MariaDB 한글 깨짐 현상 해결방법](https://twofootdog.tistory.com/62)
 * [EC2 (Amazon Linux 2 AMI)에 JAVA 11 설치](https://kim-jong-hyun.tistory.com/87)
 * [고정된 IP를 통과해 Elastic Beanstalk 접근](http://haah.kr/2018/12/01/accessing-elastic-beanstalk-via-fixed-ip/)
+* [elastic-beanstalk-samples](https://github.com/awsdocs/elastic-beanstalk-samples/blob/master/configuration-files/aws-provided/security-configuration/https-redirect/java-tomcat/https-redirect-nginx-java-tomcat/nginx/conf.d/elasticbeanstalk/00_application.conf)
+* [AWS Beanstalk Linux2 에서 Nginx 설정이 안될때](https://jojoldu.tistory.com/541)
+* [AWS Beanstalk을 이용한 성능 튜닝 시리즈](https://jojoldu.tistory.com/318?category=777282)
+* [사례별로 알아본 안전한 S3 사용 가이드](https://techblog.woowahan.com/6217/)
+* [[AWS] Amazon RDS 필수 설정](https://minholee93.tistory.com/entry/AWS-Amazon-RDS-%ED%95%84%EC%88%98-%EC%84%A4%EC%A0%95)
 
 ### Git
 * [Git 사용자 설명서](https://namhyung.github.io/git-user-manual-ko/)
@@ -144,6 +152,8 @@
 * [Bitbucket Jenkins 연동하기](http://confluence.augkorea.org/pages/viewpage.action?pageId=10977603)
 * [Jenkins로 Spring 배포하기](https://jeongbincom.tistory.com/94)
 * [[jenkins] 계정 생성 및 권한 부여](https://hongddo.tistory.com/121)
+* [[Ubuntu 20.04] 젠킨스(Jenkins) 설치 및 설정](https://hyunmin1906.tistory.com/272)
+* [젠킨스와 Github ssh 연동하기](https://jojoldu.tistory.com/442)
 
 
 ### SVN
@@ -185,6 +195,8 @@
 * [Naming Convention 약어 참고 사이트](https://www.curioustore.com/#!/util/naming)
 * [artillery](https://artillery.io/)
 * [px-to-rem-converter](https://nekocalc.com/px-to-rem-converter)
+* [ngrinder를 이용한 성능 테스트 및 서버 구성하기](https://1-7171771.tistory.com/155)
+* [Pinpoint APM Node 버전 설치하기](https://jojoldu.tistory.com/573)
 
 
 
