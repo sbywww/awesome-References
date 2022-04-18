@@ -134,6 +134,7 @@
 * [AWS Beanstalk을 이용한 성능 튜닝 시리즈](https://jojoldu.tistory.com/318?category=777282)
 * [사례별로 알아본 안전한 S3 사용 가이드](https://techblog.woowahan.com/6217/)
 * [[AWS] Amazon RDS 필수 설정](https://minholee93.tistory.com/entry/AWS-Amazon-RDS-%ED%95%84%EC%88%98-%EC%84%A4%EC%A0%95)
+* [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기](https://jojoldu.tistory.com/509?category=635883)
 
 ### Git
 * [Git 사용자 설명서](https://namhyung.github.io/git-user-manual-ko/)
