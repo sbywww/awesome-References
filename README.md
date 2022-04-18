@@ -124,6 +124,8 @@
 ### AWS
 * [SSH 간편하게 접속하기](https://jupiny.com/2016/10/31/ssh-login-simply/)
 * [AWS RDS MariaDB 한글 깨짐 현상 해결방법](https://twofootdog.tistory.com/62)
+* [EC2 (Amazon Linux 2 AMI)에 JAVA 11 설치](https://kim-jong-hyun.tistory.com/87)
+* [고정된 IP를 통과해 Elastic Beanstalk 접근](http://haah.kr/2018/12/01/accessing-elastic-beanstalk-via-fixed-ip/)
 
 ### Git
 * [Git 사용자 설명서](https://namhyung.github.io/git-user-manual-ko/)
@@ -141,6 +143,7 @@
 * [[AWS] Spring Boot, Jenkins, CodeDeploy로 CI/CD 하기](https://devlog-wjdrbs96.tistory.com/295)
 * [Bitbucket Jenkins 연동하기](http://confluence.augkorea.org/pages/viewpage.action?pageId=10977603)
 * [Jenkins로 Spring 배포하기](https://jeongbincom.tistory.com/94)
+* [[jenkins] 계정 생성 및 권한 부여](https://hongddo.tistory.com/121)
 
 
 ### SVN
