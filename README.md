@@ -54,6 +54,7 @@
 * [실무에서 Lombok 사용법](https://cheese10yun.github.io/lombok/)
 * [Spring Guide - Exception 전략](https://cheese10yun.github.io/spring-guide-exception/#null)
 * [@Value를 사용하여 Spring Boot 2.0에서 buildInfo에 액세스](https://stackoverflow.com/questions/49748780/access-buildinfo-in-spring-boot-2-0-with-value)
+* [Audit Log Approach with Spring AOP and FluentBit](https://medium.com/trendyol-tech/audit-log-approach-with-spring-aop-and-fluentbit-1df53840a9eb)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
