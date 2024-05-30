@@ -56,6 +56,8 @@
 * [@Value를 사용하여 Spring Boot 2.0에서 buildInfo에 액세스](https://stackoverflow.com/questions/49748780/access-buildinfo-in-spring-boot-2-0-with-value)
 * [Audit Log Approach with Spring AOP and FluentBit](https://medium.com/trendyol-tech/audit-log-approach-with-spring-aop-and-fluentbit-1df53840a9eb)
 * [패키지 의존성을 확인해보는법?](https://www.inflearn.com/questions/1153318/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%9D%98%EC%A1%B4%EC%84%B1%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EB%8A%94%EB%B2%95)
+* [Spring Boot Request Logging - CommonsRequestLoggingFilter](https://deep-dive-dev.tistory.com/53)
+* [[Spring] HTTP Request, Response 내용을 logging 적용해보기](https://beaniejoy.tistory.com/97)
 
 ### Spring Batch
 * [Spring Batch Reader 성능 분석 및 측정 part 1](https://cheese10yun.github.io/spring-batch-reader-performance/)
@@ -77,6 +79,7 @@
 * [Nginx conf 설정](https://www.nginx.com/resources/wiki/start/topics/examples/full/)
 * [Nginx 413 Request Entity Too Large 에러 해결하기, 파일 업로드 사이즈](https://webisfree.com/2018-03-29/nginx-413-request-entity-too-large-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%82%AC%EC%9D%B4%EC%A6%88)
 * [Java, max user processes, open files](https://techblog.woowahan.com/2569/)
+* [How to Setup Let's Encrypt SSL with NGINX on Ubuntu 24.04 server](https://dev.to/samuel_tobaoyetola_c2ad5/how-to-setup-lets-encrypt-ssl-with-nginx-on-ubuntu-2404-server-1fpa)
 
 ## Database
 
